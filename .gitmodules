@@ -1,0 +1,18 @@
+[submodule "osm-styles"]
+	path = osm-styles
+	url = https://github.com/geosolutions-it/osm-styles
+[submodule "docker-postgis"]
+	path = docker-postgis
+	url = https://github.com/kartoza/docker-postgis
+[submodule "docker-geoserver"]
+	path = docker-geoserver
+	url = https://github.com/kartoza/docker-geoserver
+[submodule "tegola"]
+	path = tegola
+	url = https://github.com/go-spatial/tegola
+[submodule "docker-openseamap-renderer"]
+	path = docker-openseamap-renderer
+	url = https://github.com/KastB/docker-openseamap-renderer
+[submodule "imposm3"]
+	path = imposm3
+	url = https://github.com/openmaptiles/imposm3
